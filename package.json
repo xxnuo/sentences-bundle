@@ -22,10 +22,6 @@
   "bugs": {
     "url": "https://github.com/hitokoto-osc/sentences-bundle/issues"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
-    "provenance": true
-  },
   "contributors": [
     {
       "name": "xxnuo",
